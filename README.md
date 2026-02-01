@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on AWS and Actice Directory
 - 👯 I’m looking to collaborate on IT Labs and projects
 - 🤔 I’m looking for help with creating a homelab
-- 💬 Ask me about my past work experience
-- 📫 How to reach me: Via email or any networking website
+- 💬 Ask me about my past work experience!
+- 📫 How to reach me: Via email or Linkedin Messaging
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have been working with computers and coding since 2022
 
