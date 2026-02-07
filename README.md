@@ -1,6 +1,6 @@
 ## Hey 👋 What's up? I'm Korey
 
-- 🔭 I’m currently working on AWS and Actice Directory
+- 🔭 I’m currently working on AWS and Actice Directory projects
 - 👯 I’m looking to collaborate on IT Labs and projects
 - 🤔 I’m looking for help with creating a homelab
 - 💬 Ask me about my past work experience!
